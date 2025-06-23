@@ -26,3 +26,4 @@ C:\Users\carlo\Desktop\Tercer-Semestre\Semana 4\AgendaClinica\obj\Debug\net9.0\r
 C:\Users\carlo\Desktop\Tercer-Semestre\Semana 4\AgendaClinica\obj\Debug\net9.0\AgendaClinica.pdb
 C:\Users\carlo\Desktop\Tercer-Semestre\Semana 4\AgendaClinica\obj\Debug\net9.0\AgendaClinica.genruntimeconfig.cache
 C:\Users\carlo\Desktop\Tercer-Semestre\Semana 4\AgendaClinica\obj\Debug\net9.0\ref\AgendaClinica.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 4\AgendaClinica\obj\Debug\net9.0\AgendaClinica.sourcelink.json

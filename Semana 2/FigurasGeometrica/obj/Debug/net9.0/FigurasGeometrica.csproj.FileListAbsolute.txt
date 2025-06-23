@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 2\FigurasGeometrica\bin\Debug\net9.0\FigurasGeometrica.exe
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 2\FigurasGeometrica\bin\Debug\net9.0\FigurasGeometrica.deps.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 2\FigurasGeometrica\bin\Debug\net9.0\FigurasGeometrica.runtimeconfig.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 2\FigurasGeometrica\bin\Debug\net9.0\FigurasGeometrica.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 2\FigurasGeometrica\bin\Debug\net9.0\FigurasGeometrica.pdb
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 2\FigurasGeometrica\obj\Debug\net9.0\FigurasGeometrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 2\FigurasGeometrica\obj\Debug\net9.0\FigurasGeometrica.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 2\FigurasGeometrica\obj\Debug\net9.0\FigurasGeometrica.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 2\FigurasGeometrica\obj\Debug\net9.0\FigurasGeometrica.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 2\FigurasGeometrica\obj\Debug\net9.0\FigurasGeometrica.sourcelink.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 2\FigurasGeometrica\obj\Debug\net9.0\FigurasGeometrica.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 2\FigurasGeometrica\obj\Debug\net9.0\refint\FigurasGeometrica.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 2\FigurasGeometrica\obj\Debug\net9.0\FigurasGeometrica.pdb
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 2\FigurasGeometrica\obj\Debug\net9.0\FigurasGeometrica.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 2\FigurasGeometrica\obj\Debug\net9.0\ref\FigurasGeometrica.dll
