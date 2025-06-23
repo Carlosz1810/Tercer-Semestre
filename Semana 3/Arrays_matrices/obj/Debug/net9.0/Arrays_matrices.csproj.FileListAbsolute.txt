@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 3\Arrays_matrices\bin\Debug\net9.0\Arrays_matrices.exe
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 3\Arrays_matrices\bin\Debug\net9.0\Arrays_matrices.deps.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 3\Arrays_matrices\bin\Debug\net9.0\Arrays_matrices.runtimeconfig.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 3\Arrays_matrices\bin\Debug\net9.0\Arrays_matrices.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 3\Arrays_matrices\bin\Debug\net9.0\Arrays_matrices.pdb
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 3\Arrays_matrices\obj\Debug\net9.0\Arrays_matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 3\Arrays_matrices\obj\Debug\net9.0\Arrays_matrices.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 3\Arrays_matrices\obj\Debug\net9.0\Arrays_matrices.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 3\Arrays_matrices\obj\Debug\net9.0\Arrays_matrices.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 3\Arrays_matrices\obj\Debug\net9.0\Arrays_matrices.sourcelink.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 3\Arrays_matrices\obj\Debug\net9.0\Arrays_matrices.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 3\Arrays_matrices\obj\Debug\net9.0\refint\Arrays_matrices.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 3\Arrays_matrices\obj\Debug\net9.0\Arrays_matrices.pdb
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 3\Arrays_matrices\obj\Debug\net9.0\Arrays_matrices.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 3\Arrays_matrices\obj\Debug\net9.0\ref\Arrays_matrices.dll
