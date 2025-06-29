@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_9\Ejercicio_9\bin\Debug\net9.0\Ejercicio_9.exe
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_9\Ejercicio_9\bin\Debug\net9.0\Ejercicio_9.deps.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_9\Ejercicio_9\bin\Debug\net9.0\Ejercicio_9.runtimeconfig.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_9\Ejercicio_9\bin\Debug\net9.0\Ejercicio_9.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_9\Ejercicio_9\bin\Debug\net9.0\Ejercicio_9.pdb
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_9\Ejercicio_9\obj\Debug\net9.0\Ejercicio_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_9\Ejercicio_9\obj\Debug\net9.0\Ejercicio_9.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_9\Ejercicio_9\obj\Debug\net9.0\Ejercicio_9.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_9\Ejercicio_9\obj\Debug\net9.0\Ejercicio_9.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_9\Ejercicio_9\obj\Debug\net9.0\Ejercicio_9.sourcelink.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_9\Ejercicio_9\obj\Debug\net9.0\Ejercicio_9.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_9\Ejercicio_9\obj\Debug\net9.0\refint\Ejercicio_9.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_9\Ejercicio_9\obj\Debug\net9.0\Ejercicio_9.pdb
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_9\Ejercicio_9\obj\Debug\net9.0\Ejercicio_9.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_9\Ejercicio_9\obj\Debug\net9.0\ref\Ejercicio_9.dll

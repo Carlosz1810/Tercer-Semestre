@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_11\Ejercicio_11\bin\Debug\net9.0\Ejercicio_11.exe
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_11\Ejercicio_11\bin\Debug\net9.0\Ejercicio_11.deps.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_11\Ejercicio_11\bin\Debug\net9.0\Ejercicio_11.runtimeconfig.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_11\Ejercicio_11\bin\Debug\net9.0\Ejercicio_11.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_11\Ejercicio_11\bin\Debug\net9.0\Ejercicio_11.pdb
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_11\Ejercicio_11\obj\Debug\net9.0\Ejercicio_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_11\Ejercicio_11\obj\Debug\net9.0\Ejercicio_11.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_11\Ejercicio_11\obj\Debug\net9.0\Ejercicio_11.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_11\Ejercicio_11\obj\Debug\net9.0\Ejercicio_11.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_11\Ejercicio_11\obj\Debug\net9.0\Ejercicio_11.sourcelink.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_11\Ejercicio_11\obj\Debug\net9.0\Ejercicio_11.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_11\Ejercicio_11\obj\Debug\net9.0\refint\Ejercicio_11.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_11\Ejercicio_11\obj\Debug\net9.0\Ejercicio_11.pdb
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_11\Ejercicio_11\obj\Debug\net9.0\Ejercicio_11.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 5\Ejercicio_11\Ejercicio_11\obj\Debug\net9.0\ref\Ejercicio_11.dll
