@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FigurasGeometrica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b7316b8bfabb5f830f4195fda91925e4e6076e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bff2a00f9abd2b336e2a2fd12a61b8c330f079db")]
 [assembly: System.Reflection.AssemblyProductAttribute("FigurasGeometrica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FigurasGeometrica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
