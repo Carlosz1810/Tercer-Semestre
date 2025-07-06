@@ -322,7 +322,7 @@ public class Program
                         Console.WriteLine("\n--- ELIMINAR ESTUDIANTE ---");
                         Console.Write("Ingrese la cédula del estudiante a eliminar: ");
                         string? deleteCedula = Console.ReadLine();
-                         if (string.IsNullOrWhiteSpace(deleteCedula))
+                        if (string.IsNullOrWhiteSpace(deleteCedula))
                         {
                             Console.WriteLine("La cédula no puede estar vacía.");
                         }
