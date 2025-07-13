@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Torres_Hanoi\bin\Debug\net9.0\Torres_Hanoi.exe
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Torres_Hanoi\bin\Debug\net9.0\Torres_Hanoi.deps.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Torres_Hanoi\bin\Debug\net9.0\Torres_Hanoi.runtimeconfig.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Torres_Hanoi\bin\Debug\net9.0\Torres_Hanoi.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Torres_Hanoi\bin\Debug\net9.0\Torres_Hanoi.pdb
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Torres_Hanoi\obj\Debug\net9.0\Torres_Hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Torres_Hanoi\obj\Debug\net9.0\Torres_Hanoi.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Torres_Hanoi\obj\Debug\net9.0\Torres_Hanoi.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Torres_Hanoi\obj\Debug\net9.0\Torres_Hanoi.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Torres_Hanoi\obj\Debug\net9.0\Torres_Hanoi.sourcelink.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Torres_Hanoi\obj\Debug\net9.0\Torres_Hanoi.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Torres_Hanoi\obj\Debug\net9.0\refint\Torres_Hanoi.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Torres_Hanoi\obj\Debug\net9.0\Torres_Hanoi.pdb
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Torres_Hanoi\obj\Debug\net9.0\Torres_Hanoi.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Torres_Hanoi\obj\Debug\net9.0\ref\Torres_Hanoi.dll

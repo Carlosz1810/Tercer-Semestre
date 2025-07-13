@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Paréntesisbalanceados\bin\Debug\net9.0\Paréntesisbalanceados.exe
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Paréntesisbalanceados\bin\Debug\net9.0\Paréntesisbalanceados.deps.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Paréntesisbalanceados\bin\Debug\net9.0\Paréntesisbalanceados.runtimeconfig.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Paréntesisbalanceados\bin\Debug\net9.0\Paréntesisbalanceados.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Paréntesisbalanceados\bin\Debug\net9.0\Paréntesisbalanceados.pdb
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Paréntesisbalanceados\obj\Debug\net9.0\Paréntesisbalanceados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Paréntesisbalanceados\obj\Debug\net9.0\Paréntesisbalanceados.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Paréntesisbalanceados\obj\Debug\net9.0\Paréntesisbalanceados.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Paréntesisbalanceados\obj\Debug\net9.0\Paréntesisbalanceados.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Paréntesisbalanceados\obj\Debug\net9.0\Paréntesisbalanceados.sourcelink.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Paréntesisbalanceados\obj\Debug\net9.0\Paréntesisbalanceados.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Paréntesisbalanceados\obj\Debug\net9.0\refint\Paréntesisbalanceados.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Paréntesisbalanceados\obj\Debug\net9.0\Paréntesisbalanceados.pdb
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Paréntesisbalanceados\obj\Debug\net9.0\Paréntesisbalanceados.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 7\Paréntesisbalanceados\obj\Debug\net9.0\ref\Paréntesisbalanceados.dll
