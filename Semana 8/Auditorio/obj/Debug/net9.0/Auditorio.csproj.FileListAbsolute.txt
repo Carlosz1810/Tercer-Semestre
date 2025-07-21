@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 8\Auditorio\bin\Debug\net9.0\Auditorio.exe
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 8\Auditorio\bin\Debug\net9.0\Auditorio.deps.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 8\Auditorio\bin\Debug\net9.0\Auditorio.runtimeconfig.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 8\Auditorio\bin\Debug\net9.0\Auditorio.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 8\Auditorio\bin\Debug\net9.0\Auditorio.pdb
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 8\Auditorio\obj\Debug\net9.0\Auditorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 8\Auditorio\obj\Debug\net9.0\Auditorio.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 8\Auditorio\obj\Debug\net9.0\Auditorio.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 8\Auditorio\obj\Debug\net9.0\Auditorio.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 8\Auditorio\obj\Debug\net9.0\Auditorio.sourcelink.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 8\Auditorio\obj\Debug\net9.0\Auditorio.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 8\Auditorio\obj\Debug\net9.0\refint\Auditorio.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 8\Auditorio\obj\Debug\net9.0\Auditorio.pdb
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 8\Auditorio\obj\Debug\net9.0\Auditorio.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 8\Auditorio\obj\Debug\net9.0\ref\Auditorio.dll
