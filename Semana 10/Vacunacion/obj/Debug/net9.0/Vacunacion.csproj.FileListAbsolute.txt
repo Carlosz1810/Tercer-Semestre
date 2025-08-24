@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 10\Vacunacion\obj\Debug\net9.0\Vacunacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 10\Vacunacion\obj\Debug\net9.0\Vacunacion.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 10\Vacunacion\obj\Debug\net9.0\Vacunacion.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 10\Vacunacion\obj\Debug\net9.0\Vacunacion.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 10\Vacunacion\obj\Debug\net9.0\Vacunacion.sourcelink.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 10\Vacunacion\bin\Debug\net9.0\Vacunacion.exe
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 10\Vacunacion\bin\Debug\net9.0\Vacunacion.deps.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 10\Vacunacion\bin\Debug\net9.0\Vacunacion.runtimeconfig.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 10\Vacunacion\bin\Debug\net9.0\Vacunacion.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 10\Vacunacion\bin\Debug\net9.0\Vacunacion.pdb
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 10\Vacunacion\obj\Debug\net9.0\Vacunacion.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 10\Vacunacion\obj\Debug\net9.0\refint\Vacunacion.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 10\Vacunacion\obj\Debug\net9.0\Vacunacion.pdb
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 10\Vacunacion\obj\Debug\net9.0\Vacunacion.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 10\Vacunacion\obj\Debug\net9.0\ref\Vacunacion.dll
