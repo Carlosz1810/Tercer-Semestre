@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 12\Torneo_Futbol\bin\Debug\net9.0\Torneo_Futbol.exe
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 12\Torneo_Futbol\bin\Debug\net9.0\Torneo_Futbol.deps.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 12\Torneo_Futbol\bin\Debug\net9.0\Torneo_Futbol.runtimeconfig.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 12\Torneo_Futbol\bin\Debug\net9.0\Torneo_Futbol.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 12\Torneo_Futbol\bin\Debug\net9.0\Torneo_Futbol.pdb
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 12\Torneo_Futbol\obj\Debug\net9.0\Torneo_Futbol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 12\Torneo_Futbol\obj\Debug\net9.0\Torneo_Futbol.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 12\Torneo_Futbol\obj\Debug\net9.0\Torneo_Futbol.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 12\Torneo_Futbol\obj\Debug\net9.0\Torneo_Futbol.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 12\Torneo_Futbol\obj\Debug\net9.0\Torneo_Futbol.sourcelink.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 12\Torneo_Futbol\obj\Debug\net9.0\Torneo_Futbol.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 12\Torneo_Futbol\obj\Debug\net9.0\refint\Torneo_Futbol.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 12\Torneo_Futbol\obj\Debug\net9.0\Torneo_Futbol.pdb
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 12\Torneo_Futbol\obj\Debug\net9.0\Torneo_Futbol.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 12\Torneo_Futbol\obj\Debug\net9.0\ref\Torneo_Futbol.dll

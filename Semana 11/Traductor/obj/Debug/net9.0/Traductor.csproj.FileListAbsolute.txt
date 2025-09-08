@@ -1,0 +1,15 @@
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 11\Traductor\bin\Debug\net9.0\Traductor.exe
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 11\Traductor\bin\Debug\net9.0\Traductor.deps.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 11\Traductor\bin\Debug\net9.0\Traductor.runtimeconfig.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 11\Traductor\bin\Debug\net9.0\Traductor.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 11\Traductor\bin\Debug\net9.0\Traductor.pdb
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 11\Traductor\obj\Debug\net9.0\Traductor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 11\Traductor\obj\Debug\net9.0\Traductor.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 11\Traductor\obj\Debug\net9.0\Traductor.AssemblyInfo.cs
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 11\Traductor\obj\Debug\net9.0\Traductor.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 11\Traductor\obj\Debug\net9.0\Traductor.sourcelink.json
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 11\Traductor\obj\Debug\net9.0\Traductor.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 11\Traductor\obj\Debug\net9.0\refint\Traductor.dll
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 11\Traductor\obj\Debug\net9.0\Traductor.pdb
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 11\Traductor\obj\Debug\net9.0\Traductor.genruntimeconfig.cache
+C:\Users\carlo\Desktop\Tercer-Semestre\Semana 11\Traductor\obj\Debug\net9.0\ref\Traductor.dll
