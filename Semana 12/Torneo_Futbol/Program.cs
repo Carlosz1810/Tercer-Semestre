@@ -11,7 +11,7 @@ public class Program
         {
             Console.WriteLine("\n=============================================");
             Console.WriteLine("  Menú de la Aplicación del Torneo de Fútbol");
-            Console.WriteLine("=============================================");
+            Console.WriteLine(" ===========================================");
             Console.WriteLine("1. Registrar un nuevo equipo");
             Console.WriteLine("2. Registrar un jugador en un equipo");
             Console.WriteLine("3. Listar todos los equipos");
